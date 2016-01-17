@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8" />
+		<title>The Dog and his Guy</title>
+		<link href="The-Dog-and-his-Guy-web-resources/css/The%20Dog%20and%20his%20Guy.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body id="The-Dog-and-his-Guy" xml:lang="en-US">
+		<div class="Basic-Text-Frame">
+			<p class="Basic-Paragraph para-style-override-1"><span class="char-style-override-1">The Dog and his Guy</span><span class="char-style-override-2"></span></p>
+			<p class="Basic-Paragraph para-style-override-2">&#160;</p>
+			<p class="Basic-Paragraph para-style-override-3">A blog about life as a dog.</p>
+			<p class="Basic-Paragraph para-style-override-3">A blog about life as a guy.</p>
+		</div>
+		<div class="frame-2">
+			<img class="frame-1" src="The-Dog-and-his-Guy-web-resources/image/252.png" alt="252.png" />
+		</div>
+	</body>
+</html>
