@@ -1,5 +1,6 @@
-body {
+.test {
 background: url("https://github.com/sstyles/thedogandhisguy/blob/master/BW-7145.jpg?raw=true") top center;
+background-size: cover;
 }
 p {
   color: red;
