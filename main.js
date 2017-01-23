@@ -1,5 +1,5 @@
 function main(){
-$(.'test').fadeIn(1000);
+$(.'test').fadeIn(5000);
 }
 
 $(document).ready(main);
