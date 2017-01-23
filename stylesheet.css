@@ -8,7 +8,7 @@ background-size: cover;
     height: 800px;
  display: block;
 }
-div.post {
+.post {
  background-color: darkslategray;
  width: 30%;
  margin: auto;
