@@ -9,8 +9,10 @@ background-size: cover;
  display: block;
 }
 div.post {
+ background-color: darkslategray;
  width: 30%;
- height: 200px;
+ margin: auto;
+ padding-top: 10px;
 }
 p {
   color: ghostwhite;
@@ -20,5 +22,4 @@ p {
 p.post-text {
 text-align: center;
  font-size: 14px;
- color: black;
-}
+ }
