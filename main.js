@@ -1,6 +1,9 @@
 function main(){
   
-  $(."test").hide();
+  $(.'test').on('click', function(){
+    
+    $(this).hide();
+  });
 }
 
 $(document).ready(main);
