@@ -1,5 +1,6 @@
 function main(){
-$(.'test').hide();  
+  
+  $(."test").hide();
 }
 
 $(document).ready(main);
