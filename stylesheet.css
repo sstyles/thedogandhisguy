@@ -1,3 +1,7 @@
+div {
+ border: 2px, solid, ghostwhite;
+border-radius: 5px;
+}
 .test {
 background: url("https://github.com/sstyles/thedogandhisguy/blob/master/BW-7145.jpg?raw=true") no-repeat center center;
 background-size: cover;
